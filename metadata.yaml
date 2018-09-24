@@ -1,10 +1,13 @@
 _repo: The-Story-of-Gosta-Berling_56158
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Flach, Pauline Bancroft
     gutenberg_agent_id: '39555'
     url: http://www.gutenberg.org/2009/agents/39555
+covers:
+- cover_type: archival
+  image_path: 56158-h/images/cover.jpg
 creator:
   author:
     agent_name: Lagerlöf, Selma
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1717
     wikipedia: http://en.wikipedia.org/wiki/Selma_Lagerlöf
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56158#The-Story-of-Gosta-Berling
 gutenberg_issued: '2017-12-10'
 gutenberg_type: Text
 identifiers:
